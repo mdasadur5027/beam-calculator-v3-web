@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://beam-calculator.com/sitemap.xml
+Sitemap: https://beamcore.netlify.app/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1
